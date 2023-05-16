@@ -1,0 +1,51 @@
+.aboba{
+    position: absolute;
+width: 1872px;
+height: 485px;
+left: 0px;
+top: 100px;
+
+background: linear-gradient(265.48deg, #095ACD 33.12%, #006AFF 84.7%);
+}
+.eng1{
+    position: absolute;
+    width: 840px;
+    height: 158px;
+    left: 540px;
+    top: 90px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 79px;
+ 
+    
+    text-align: center;
+    
+    color: #FFFFFF; 
+}
+.edg2{
+    position: absolute;
+    width: 840px;
+    height: 158px;
+    left: 540px;
+    top: 186px;
+    
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 79px;
+    
+    text-align: center;
+    
+    color: #FFFFFF; 
+}
+.box{
+   position: relative;
+    top: 436px;
+    width: 843px;
+    height: 100px;
+    left: 320px;
+}
